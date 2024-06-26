@@ -1,8 +1,8 @@
 # Interview_question_creator_project using Gemini
 
-conda create <environmentname>
+conda create environment_name
 
-conda activate <environmentname>
+conda activate environment_name
 
 pip install -r requirements.txt
 
